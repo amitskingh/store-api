@@ -1,2 +1,2 @@
 ## Store-API
-This is the store api for searching, filtering, pagination.
+This is the store api for searching, filtering, pagination & rate limiting.
